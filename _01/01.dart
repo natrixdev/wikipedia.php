@@ -1,0 +1,2 @@
+>include
+  [wikipedia.search]
